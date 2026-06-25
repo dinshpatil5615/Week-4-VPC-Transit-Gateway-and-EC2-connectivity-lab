@@ -9,7 +9,9 @@ Two different VPC-to-VPC connectivity models built side by side:
   at all — App VPC never gains visibility into Shared VPC's CIDR.
 
 ## Architecture
-[Insert your screenshot here]
+screenshots/Screenshot 2026-06-25 165503.jpg
+screenshots/Screenshot 2026-06-25 165611.jpg
+screenshots/Screenshot 2026-06-25 165713.jpg
 
 ## How to deploy
 \`\`\`bash
