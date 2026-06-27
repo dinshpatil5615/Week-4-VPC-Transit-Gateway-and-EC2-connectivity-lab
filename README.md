@@ -138,13 +138,13 @@ terraform/
 
 ### EC2 Instances
 
-![EC2 Instances](screenshots/EC2_Instances.png)
+![EC2 Instances](screenshots/EC2_instances.png)
 
 ---
 
 ### Connectivity Validation
 
-![Connectivity Test](screenshots/connectivity_test.png)
+![Connectivity Test](screenshots/Connectivity_test.png)
 
 ```bash
 curl http://10.2.1.xx
